@@ -1,0 +1,28 @@
+h1 ,p ,h2  {
+    
+    font-family: cursive;
+    
+}
+p {
+    font-size: 15px;
+}
+h1 {
+    font-size: 60px;
+}
+h2 {
+    font-size: 35px;
+}
+head {
+    align-items: center;
+}
+.box1 {
+    
+    width: 100px;
+    height: 100px;
+    
+    top: 1px;
+    background-image: url(../img/forfai.jpg);
+
+
+
+}   
