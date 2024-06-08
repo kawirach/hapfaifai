@@ -1,8 +1,4 @@
-h1 ,p ,h2  {
-    
-    font-family: cursive;
-    
-}
+
 p {
     font-size: 15px;
 }
@@ -15,14 +11,15 @@ h2 {
 head {
     align-items: center;
 }
-.box1 {
-    
-    width: 100px;
-    height: 100px;
-    
-    top: 1px;
-    background-image: url(../img/forfai.jpg);
 
 
 
-}   
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+body {
+    font-family: 'RedHatDisplay-Light';
+}
